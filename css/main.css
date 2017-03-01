@@ -185,7 +185,7 @@ nav a, nav a:visited {
 }
 /*selector nav link*/
 nav a.selected, nav a:hover {
-  color: orange;
+  color: #ff4d4d;
 }
 /*site body*/
 body {
